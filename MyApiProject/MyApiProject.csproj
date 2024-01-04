@@ -13,7 +13,7 @@
 	  <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
 	  <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.0" />
 	  <!-- Add HigLabo library reference -->
-	  <PackageReference Include="HigLabo" Version="*" />
-  </ItemGroup>
+	  <PackageReference Include="HigLabo.Net" Version="6.2.2.1" />
+    </ItemGroup>
 
 </Project>
